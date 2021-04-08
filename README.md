@@ -17,7 +17,7 @@ La première ligne contient le nombre d'atomes (ici 5)
 La seconde ligne est un titre quelconque
 Les lignes suivantes sont de la forme : Type_atome X Y Z
 Type_atome : symbole chimique de l'atome
-X, Y, Z : coordonnées cartésiennes de l'atome
+X, Y, Z : coordonnées cartésiennes de l'atome (en Angstroems)
 
 Pour lancer le script python ellipsoid.py sur le fichier cf3i.xyz, il suffit de taper la commande :
 run ellipsoid.py cf3i.xyz
